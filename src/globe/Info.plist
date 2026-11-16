@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>	<string>org.nanoapps.globe</string>
+	<key>CFBundleName</key>		<string>Globe 3D</string>
+	<key>CFBundleExecutable</key>	<string>globe</string>
+	<key>HBAppKind</key>			<integer>2</integer>
+	<key>HBIconGlyph</key>		<string>earth-americas</string>
+	<key>HBIconColor</key>		<string>#0369a1</string>
+</dict>
+</plist>

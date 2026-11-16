@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>	<string>org.nanoapps.morse</string>
+	<key>CFBundleName</key>		<string>Morse Code</string>
+	<key>CFBundleExecutable</key>	<string>morse</string>
+	<key>HBAppKind</key>			<integer>1</integer>
+	<key>HBIconGlyph</key>		<string>tower-broadcast</string>
+	<key>HBIconColor</key>		<string>#2563eb</string>
+</dict>
+</plist>

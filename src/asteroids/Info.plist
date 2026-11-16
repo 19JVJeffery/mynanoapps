@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>	<string>org.nanoapps.asteroids</string>
+	<key>CFBundleName</key>		<string>Asteroids</string>
+	<key>CFBundleExecutable</key>	<string>asteroids</string>
+	<key>HBAppKind</key>			<integer>1</integer>
+	<key>HBIconGlyph</key>		<string>shuttle-space</string>
+	<key>HBIconColor</key>		<string>#1e293b</string>
+</dict>
+</plist>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>	<string>org.nanoapps.starfield</string>
+	<key>CFBundleName</key>		<string>Starfield 3D</string>
+	<key>CFBundleExecutable</key>	<string>starfield</string>
+	<key>HBAppKind</key>			<integer>2</integer>
+	<key>HBIconGlyph</key>		<string>rocket</string>
+	<key>HBIconColor</key>		<string>#312e81</string>
+</dict>
+</plist>

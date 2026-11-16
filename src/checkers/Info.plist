@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>	<string>org.nanoapps.checkers</string>
+	<key>CFBundleName</key>		<string>Checkers</string>
+	<key>CFBundleExecutable</key>	<string>checkers</string>
+	<key>HBAppKind</key>			<integer>1</integer>
+	<key>HBIconGlyph</key>		<string>chess-board</string>
+	<key>HBIconColor</key>		<string>#b91c1c</string>
+</dict>
+</plist>
